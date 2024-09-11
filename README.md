@@ -1,7 +1,7 @@
 # Machine Learning App
-```
+
 This is a machine learning app
-```
+
 
 Description of the app ...
 
